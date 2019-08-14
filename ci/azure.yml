@@ -58,8 +58,12 @@ jobs:
           TARGET: mips-unknown-linux-musl
         mips64-unknown-linux-gnuabi64:
           TARGET: mips64-unknown-linux-gnuabi64
+        mips64-unknown-linux-muslabi64:
+          TARGET: mips64-unknown-linux-muslabi64
         mips64el-unknown-linux-gnuabi64:
           TARGET: mips64el-unknown-linux-gnuabi64
+        mips64el-unknown-linux-muslabi64:
+          TARGET: mips64el-unknown-linux-muslabi64
         mipsel-unknown-linux-musl:
           TARGET: mipsel-unknown-linux-musl
         #powerpc-unknown-linux-gnu:
